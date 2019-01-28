@@ -1,5 +1,5 @@
 {
-  "name": "react-static-plugin-emotion",
+  "name": "iv-react-static-plugin-emotion",
   "version": "6.3.0",
   "description": "A React-Static plugin that adds CSS-in-JS/SSR support for emotion & react-emotion",
   "main": "node.api.js",

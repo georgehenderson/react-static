@@ -1,5 +1,5 @@
 {
-  "name": "react-static-plugin-sass",
+  "name": "iv-react-static-plugin-sass",
   "version": "6.3.0",
   "description": "A React-Static plugin that adds SSR support for sass",
   "main": "node.api.js",

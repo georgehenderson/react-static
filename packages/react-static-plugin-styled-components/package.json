@@ -1,5 +1,5 @@
 {
-  "name": "react-static-plugin-styled-components",
+  "name": "iv-react-static-plugin-styled-components",
   "version": "6.3.0",
   "description": "A React-Static plugin that adds CSS-in-JS/SSR support for styled-components",
   "main": "node.api.js",
