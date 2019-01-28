@@ -65,9 +65,9 @@ The routes that will be rendered are the **routes** returned by the `getRoutes` 
 
 #### Props
 
-| Prop                   | type      | Default | description                                                       |
-| ---------------------- | --------- | ------- | ----------------------------------------------------------------- |
-| `disableUpdateOnLocationChange`      | `bool`    | false   | Toggles location changes from updating the component tree                                    |
+| Prop                            | type   | Default | description                                               |
+| ------------------------------- | ------ | ------- | --------------------------------------------------------- |
+| `disableUpdateOnLocationChange` | `bool` | false   | Toggles location changes from updating the component tree |
 
 ##### Custom `Routes` Rendering
 
